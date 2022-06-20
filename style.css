@@ -13,6 +13,13 @@ li {
     list-style: none;
 }
 
+.bolinha li {
+    list-style-type: circle;
+    list-style-position: outside;
+    margin: 15px 50px 15px;
+    text-align: justify;
+}
+
 .header-menu{
     display: flex; 
     position: absolute;
